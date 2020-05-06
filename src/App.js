@@ -16,6 +16,8 @@ export default class App extends Component {
         <Avatar imageUrl='https://tinyfac.es/data/avatars/AEF44435-B547-4B84-A2AE-887DFAEE6DDF-200w.jpeg' />
 
         <p>test git</p>
+
+        <p>buoi hoc ngay mai</p>
   
 
 
