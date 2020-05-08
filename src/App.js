@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Header from './header';
 import Avatar from "./avatar" ;
+import Gallery from './gallery'
 
 
 export default class App extends Component {
@@ -18,6 +19,8 @@ export default class App extends Component {
         <p>test git</p>
 
         <p>buoi hoc ngay mai</p>
+
+        <Gallery/>
   
 
 
